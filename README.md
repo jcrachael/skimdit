@@ -1,0 +1,2 @@
+# skimdit
+A reddit clone.
